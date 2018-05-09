@@ -1,2 +1,2 @@
 # tagless-final-example
-Example project for the Tagless Final pattern.
+Example project to explore Tagless Final.
